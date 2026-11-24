@@ -8,9 +8,6 @@ Atuo na interseção entre **engenharia de dados, automação e desenvolvimento 
 
 ### 💼 Experiência Profissional
 
-* **Banestes Asset — Área de Investimentos (COAFI / GEART)** *(Atual)*
-  * Desenvolvimento de automações de processos, rotinas de normalização e tratamento de dados, além da construção de dashboards e sistemas internos utilizando **Google Apps Script**.
-
 * **Banestes — Dados & Tecnologia**
   * Atuação com tratamento, normalização e carregamento de dados (ETL) utilizando **Pentaho**, **R**, **Excel** e **Google Sheets**.
   * Elaboração de relatórios gerenciais e analíticos para coordenadoria e diretoria, além de administração e fluxo de chamados no **Jira**.
